@@ -29,12 +29,6 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{maheshpathade1103}/count.svg)
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshpathade1103&show_icons=true&locale=en&layout=compact" alt="sriyush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshpathade1103&show_icons=true&locale=en" alt="maheshpathade1103" /></p>
 
