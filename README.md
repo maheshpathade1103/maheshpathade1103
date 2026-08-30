@@ -23,6 +23,32 @@ Currently working on **enterprise CMS modernization and migration**, with hands-
 
 ---
 
+## 📊 Professional Highlights
+
+### 🚀 Enterprise Development & KOA Project
+
+* **APIs:** `35+` APIs developed, enhanced, integrated, or maintained
+* **Migration Jobs & Scripts:** `50+` migration jobs/scripts implemented
+* **Content Migration:** `300k+` records/content entries migrated
+* **Environments:** Worked across `2+` environments
+* **Issues Resolved:** `25+` development, migration, and production issues resolved
+* **Pull Requests:** `30+` PRs created/reviewed and contributed to
+
+### 🔧 Key Contributions
+
+* Developed and maintained **ASP.NET Core Web APIs** for enterprise applications.
+* Implemented **M2M authentication** and secure API communication.
+* Built **migration scripts and automation jobs** for CMS modernization.
+* Worked on **K2 CMS → Contentful** migration workflows.
+* Performed **content type mapping, data transformation, validation, and migration troubleshooting**.
+* Integrated and tested APIs using **Postman and Swagger/OpenAPI**.
+* Worked with **SQL Server, Dapper, Entity Framework, and stored procedures**.
+* Participated in **code reviews, PR workflows, debugging, and issue resolution**.
+* Worked with **Azure DevOps and CI/CD pipelines** as part of enterprise development.
+* Collaborated with teams to understand and deliver **client/business requirements**.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend & Frameworks
@@ -42,6 +68,7 @@ Currently working on **enterprise CMS modernization and migration**, with hands-
 **HTML • CSS • JavaScript • REST • JSON • XML**
 
 ### Databases
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
 </p>
@@ -60,58 +87,9 @@ Currently working on **enterprise CMS modernization and migration**, with hands-
 
 **Git • GitHub • Azure DevOps • CI/CD • Postman • Swagger/OpenAPI • Docker**
 
-### Development Practices
-
-**REST API Design • Authentication & Authorization • Logging • Exception Handling • Repository Pattern • Background Jobs • Automation • Code Reviews**
-
 ---
 
-# 🚀 What I Work On
-
-### 🔄 CMS Modernization & Migration
-
-Working on migration from **K2 CMS to Contentful**, including:
-
-* Content and data migration
-* Content type mapping
-* Data transformation
-* API-based migration
-* Migration scripts and automation
-* JSON/XML processing
-* Existing API integration
-* Data validation
-* Migration troubleshooting
-
-### 🔌 Backend & API Development
-
-Hands-on experience developing and maintaining:
-
-* ASP.NET Core Web APIs
-* Controllers & service layers
-* Repository/data-access layers
-* REST integrations
-* Authentication mechanisms
-* Third-party API integrations
-* Background jobs
-* Console applications
-* Configuration management
-* Logging and exception handling
-
-### 🗄️ Database Engineering
-
-Working with:
-
-* SQL Server
-* Complex SQL queries
-* Stored procedures
-* Entity Framework
-* Dapper
-* Data transformation
-* Migration-related database operations
-
----
-
-# 🔐 Backend Engineering
+## 🔐 Backend Engineering
 
 Some of the areas I've worked with:
 
@@ -133,39 +111,19 @@ REST API
 SQL Server / External APIs
 ```
 
-I particularly enjoy understanding how different layers of an application work together and improving reliability, maintainability and automation.
+I particularly enjoy understanding how different layers of an application work together and improving **reliability, maintainability, automation, and scalability**.
 
 ---
 
-# 📌 Featured Areas
-
-| Area                  | Experience                                |
-| --------------------- | ----------------------------------------- |
-| **Languages**         | C#, Java, Python, JavaScript              |
-| **Backend**           | .NET, ASP.NET Core, Web API               |
-| **Databases**         | SQL Server, MySQL                         |
-| **ORM / Data Access** | Entity Framework, Dapper                  |
-| **CMS**               | Contentful, K2 CMS                        |
-| **APIs**              | REST, Swagger, Postman                    |
-| **Authentication**    | JWT, M2M Authentication                   |
-| **DevOps**            | Azure DevOps, CI/CD                       |
-| **Version Control**   | Git, GitHub                               |
-| **Data Formats**      | JSON, XML                                 |
-| **Development**       | Background Jobs, Console Apps, Automation |
-
----
-
-# 🧠 Problem Solving
+## 🧠 Problem Solving
 
 I also enjoy solving **Data Structures & Algorithms** problems and continuously improving my problem-solving skills.
-
-### Areas I practice
 
 `Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Recursion` `Dynamic Programming` `Sorting` `Searching`
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maheshpathade1103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
@@ -178,7 +136,7 @@ I also enjoy solving **Data Structures & Algorithms** problems and continuously 
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=maheshpathade1103&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
@@ -186,7 +144,7 @@ I also enjoy solving **Data Structures & Algorithms** problems and continuously 
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshpathade1103&theme=tokyo-night&hide_border=true" />
@@ -194,7 +152,7 @@ I also enjoy solving **Data Structures & Algorithms** problems and continuously 
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="left">
 
@@ -210,8 +168,6 @@ I also enjoy solving **Data Structures & Algorithms** problems and continuously 
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
-
 <p align="center">
-<strong>Thanks for visiting my profile!</strong>
+<strong>Build. Learn. Improve. Repeat.</strong>
 </p>
